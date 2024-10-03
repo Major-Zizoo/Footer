@@ -1,0 +1,10 @@
+p{
+ position:fixed;
+ bottom:0;
+ text-align: center;
+ background-color: aqua;
+ width:100%;
+ color: rgb(15,124,219);
+ font-family: 'Courier New', Courier, monospace;
+ font-size: smaller;
+}
